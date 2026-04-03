@@ -1,4 +1,5 @@
- {
+  {
+  "payload": {
   "feed_title": "Latest News",
   "feed_url": "https://gili-net.github.io/feedlib/feed.json",
   "description": "The Latest News in GiliNet",
@@ -26,4 +27,4 @@
 }
   ]
 }
- }
+  }
