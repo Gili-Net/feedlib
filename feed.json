@@ -1,4 +1,6 @@
-{
+ {
+  "signature":"-----BEGIN PRIVATE KEY-----MIGEAgEAMBAGByqGSM49AgEGBSuBBAAKBG0wawIBAQQgBpmIgOoA/HzYpcMm4XJ5QKMZ55kORZ4ejCIHa1x80gShRANCAARQWOIBS4tMhOdIeE49dXo8+2vq06GTDoRw2DzR7KNxCwbYHiMYL5ETwtfrUCuVfugoioXTDDegSdCZHxLdXBdA-----END PRIVATE KEY-----", 
+  "payload": {
   "feed_title": "Latest News",
   "feed_url": "https://gili-net.github.io/feedlib/feed.json",
   "description": "The Latest News in GiliNet",
@@ -26,3 +28,4 @@
 }
   ]
 }
+ }
