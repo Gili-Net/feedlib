@@ -1,6 +1,6 @@
 {
   "feed_title": "Latest News",
-  "feed_url": "https://webdev-at-gilinet.github.io/feedlib/feeds.json",
+  "feed_url": "https://gili-net.github.io/feedlib/feed.json",
   "description": "The Latest News in GiliNet",
   "items": [
     {
